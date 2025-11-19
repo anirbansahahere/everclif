@@ -836,7 +836,7 @@ html {
     }
     
     .hero-title {
-        font-size: 39.6px;
+        font-size: 44px;
     }
     
     .hero-description {
@@ -902,7 +902,11 @@ html {
     }
     
     .hero-title {
-        font-size: 30.8px;
+        font-size: 38px;
+    }
+    
+    .section-title {
+        font-size: 30px;
     }
     
     .hero-description {
